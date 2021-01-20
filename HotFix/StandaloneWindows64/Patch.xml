@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patches xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1">
+  <Files Name="hotfix" Url="http://127.0.0.1/hotfix/0.1/2/hotfix" Platform="StandaloneWindows64" MD5="68295b76e47c1138085f754b01f140fb" Size="15.4316406" />
+  <Files Name="StandaloneWindows64" Url="http://127.0.0.1/hotfix/0.1/2/StandaloneWindows64" Platform="StandaloneWindows64" MD5="88829eca4a76d15d82f5bae7d1df9c06" Size="1.94726563" />
+</Patches>

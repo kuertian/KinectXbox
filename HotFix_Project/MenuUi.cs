@@ -67,11 +67,11 @@ namespace HotFix_Project
 
         public override void OnUpdate()
         {
-            if (Input.GetKeyDown(KeyCode.A))
-            {
-                ResourceManager.Instance.ReleaseResouce(m_MainPanel.m_Test1.sprite, true);
-                m_MainPanel.m_Test1.sprite = null;
-            }
+            //if (Input.GetKeyDown(KeyCode.A))
+            //{
+            //    ResourceManager.Instance.ReleaseResouce(m_MainPanel.m_Test1.sprite, true);
+            //    m_MainPanel.m_Test1.sprite = null;
+            //}
         }
 
         void OnClickStart()
